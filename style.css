@@ -1,0 +1,56 @@
+
+
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+hr{
+    width: 500px;
+}
+
+#erros{
+    color: coral;
+}
+
+#tabela{
+    width: 450px;
+    height:450px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(32, 98, 155);
+}
+
+#digitos{
+    width: 450px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(255, 28, 66);
+}
+
+.tile{
+    width: 48px;
+    height: 48px;
+    border: 0 solid lightblue;
+
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numbers{
+    width: 48px;
+    height: 48px;
+    border: 0 solid rgb(0, 0, 0);
+
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
