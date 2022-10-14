@@ -13,6 +13,13 @@ hr{
     color: coral;
 }
 
+#tabelamaior{
+    background-color: blue;
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 50px;
+}
+
 #tabela{
     width: 450px;
     height:450px;
@@ -20,9 +27,10 @@ hr{
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(32, 98, 155);
+    background-image: url('/img/download.png');
 }
 
-#digitos{
+#digits{
     width: 450px;
     height: 50px;
     margin: 0 auto;
@@ -35,7 +43,6 @@ hr{
     width: 48px;
     height: 48px;
     border: 0 solid lightblue;
-
     font-size: 20px;
     font-weight: bold;
     display: flex;
