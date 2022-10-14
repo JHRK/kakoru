@@ -27,7 +27,7 @@ hr{
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(32, 98, 155);
-    background-image: url('/img/download.png');
+    background-image: url('/img/250px-Kakuro_black_box.svg.png');
 }
 
 #digits{
